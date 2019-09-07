@@ -1,0 +1,68 @@
+
+.container1{
+  border: 0px solid black;
+  margin-top: 30px;
+ 
+
+}
+li {
+  border: 0px solid black;
+  display: inline;
+  margin-right: 18px;
+}
+
+/*Logo Globo.com*/
+
+img {
+ width: 95px;
+ height: 60px;
+ margin-right: 35px;
+
+}
+
+.g1{
+  color: #B22222;
+  font:  bold 24px Trebuchet MS, sans-serif;
+  letter-spacing: -2px;
+}
+.ge{
+  color: #76AF50;
+  font:  bold 24px Trebuchet MS, sans-serif;
+  letter-spacing: -2px;
+}
+.gshow{
+  color: #D7833C;
+  font:  bold 24px Trebuchet MS, sans-serif;
+  letter-spacing: -2px;
+}
+.tech{
+  color: #565656;
+  font:  bold 24px Trebuchet MS, sans-serif;
+  letter-spacing: -2px;
+}
+.videos{
+  color: #2166BD;
+  font:  bold 24px Trebuchet MS, sans-serif;
+  letter-spacing: -2px;
+  padding-right: 80px;
+}
+.assineja{
+  font-size: 12px;
+  color: #565656;
+  letter-spacing: -1px;
+}
+.minhaconta{
+  font-size: 12px;
+  color: #565656;
+  letter-spacing: -1px;
+  padding-right: -15px;
+
+}
+.email{
+  font-size: 12px;
+  color: #565656;
+  letter-spacing: -1px;
+  padding-right: -15px;
+}
+
+
